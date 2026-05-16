@@ -80,10 +80,10 @@ Final Output Packaging
 ![Output Workflow](screenshots/output-files.png)
 
 ### Result Summary
-![Result Summary](screenshots/result-summary.png)
+![Result Summary](screenshots/result_summary.png)
 
 ### Candidate Scorecard Sample
-![Candidate Scorecard](screenshots/candidate-scorecard.png)
+![Candidate Scorecard](screenshots/candidate scorecard.png)
 
 ## Portfolio Note
 This repository is a public showcase version created for professional portfolio purposes.
