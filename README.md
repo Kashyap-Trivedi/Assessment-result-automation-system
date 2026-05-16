@@ -68,6 +68,23 @@ Final Output Packaging
 
 ---
 
+## Project Screenshots
+
+### Project Structure
+![Project Structure](screenshots/folder-structure.png)
+
+### Code Overview
+![Code Overview](screenshots/code-overview.png)
+
+### Output Workflow
+![Output Workflow](screenshots/output-files.png)
+
+### Result Summary
+![Result Summary](screenshots/result-summary.png)
+
+### Candidate Scorecard Sample
+![Candidate Scorecard](screenshots/candidate-scorecard.png)
+
 ## Portfolio Note
 This repository is a public showcase version created for professional portfolio purposes.
 
